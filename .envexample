@@ -1,0 +1,10 @@
+PORT = 4000
+NODE_ENV = production
+PG_HOST = 127.0.0.1
+PG_PORT = 5432
+PG_DATABASE = mi_proyecto_db
+PG_USER = admin_user
+PG_PASSWORD = cambiar_esta_contraseña
+PG_MAX_POOL = 20
+PG_IDLE_TIMEOUT = 10000
+
